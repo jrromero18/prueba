@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535065279 source:/home/alumno/Documentos/romero/clase2 Ej2/main.c
+	<stdio.h>
+	<stdlib.h>
+
