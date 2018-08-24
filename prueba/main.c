@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hola MUNDO!\n");
+    rintf("Hola MUNDOwwwwwww!\n");
     return 0;
 }
